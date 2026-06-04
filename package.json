@@ -1,0 +1,11 @@
+{
+  "name": "ditty-20260604-zkq68y",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
